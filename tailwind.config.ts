@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        secondary: "#8400ffff",
+        secondary: "#d81010d3", //ACA CAMBIO COLOR DE LAS LETRAS
         darkBg: "#000000ff",
       },
       backgroundImage: {

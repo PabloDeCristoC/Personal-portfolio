@@ -1,4 +1,4 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, Github } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, Github, Cloud } from "lucide-react";
 
 export const socialNetworks = [
     {
@@ -33,6 +33,7 @@ export const itemsNavbar = [
         icon: <BookText size={25} color="#fff" strokeWidth={1} />,
         link: "/services",
     },
+
 ];
 
 export const dataAboutPage = [
@@ -99,29 +100,29 @@ export const dataCounter = [
 
 export const serviceData = [
     {
-        icon: <Crop />,
-        title: "Branding",
-        description: "Desarrollo de una identidad de marca sólida y coherente, incluyendo diseño de logotipo, colores y elementos visuales",
+        icon: <Computer />,
+        title: "Software Engineering IA",
+        description: "Desarrollo de aplicaciones que integran modelos de ML (Python/C++) y APIs inteligentes.",
     },
     {
-        icon: <Pencil />,
-        title: "Diseño web",
-        description: "Diseño creativo y profesional de interfaces web intuitivas y atractivas, centradas en la experiencia del usuario",
+        icon: <Cloud />,
+        title: "Cloud Data Engineering",
+        description: "Pipelines ETL y almacenamiento escalable (AWS/GCP) para sistemas de IA.",
     },
     {
         icon: <Computer />,
-        title: "Desarrollo web",
-        description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
+        title: "Machine Learning",
+        description: "Modelos predictivos entrenados con TensorFlow/PyTorch para análisis avanzados.",
     },
     {
-        icon: <Book />,
-        title: "Copywriting",
-        description: "Creación de contenido persuasivo y atractivo que capta la atención de tu audiencia",
+        icon: <Cloud />,
+        title: "Despliegue de IA (MLOps)",
+        description: "Creación de contenido persuasivo y atractivo que capta la atención de clientes",
     },
     {
-        icon: <Rocket />,
-        title: "SEO",
-        description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
+        icon: <Computer />,
+        title: "Soluciones Globales",
+        description: "Desarrollo técnico en español, alemán e inglés para equipos internacionales.",
     },
 ];
 

@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        secondary: "#ff0000d7",
+        secondary: "#8400ffff",
         darkBg: "#000000ff",
       },
       backgroundImage: {

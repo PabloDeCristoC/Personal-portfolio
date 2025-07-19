@@ -21,7 +21,7 @@ main {
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets
   .swiper-pagination-bullet {
-  background-color: #000000;
+  background-color: #4b4b4b;
 }
 
 @layer utilities {

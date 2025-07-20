@@ -10,11 +10,11 @@ const Introduction = () => {
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">Estudiante de Ingenieria Civil en Computacion, Mencion informatica <br />
                         <TypeAnimation
                             sequence={[
-                                'Habilidades en Software Engineer con enfoque en IA',
+                                'Habilidades en (completar a futuro)',
                                 1000,
-                                'Habilidades en Machine Learning',
+                                'Habilidades en (completar a futuro)',
                                 1000,
-                                'Habilidades en Data Engineering con enfoque en IA',
+                                'Habilidades en (completar a futuro)',
                                 1000,
                                 'Habilidad en idiomas (Español, Aleman, Ingles)',
                                 1000
@@ -27,7 +27,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Como Ingeniero de Software con enfoque en IA, me especializo en diseñar y desplegar soluciones inteligentes que integran modelos de Machine Learning en aplicaciones escalables. Combino habilidades en Data Engineering para construir pipelines robustos y dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es transformar datos en productos funcionales que optimicen procesos y generen impacto real.
+                        (COMPLETAR A FUTURO MUCHO MAS) Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es transformar datos en productos funcionales que optimicen procesos y generen impacto real.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

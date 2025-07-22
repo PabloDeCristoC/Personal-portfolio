@@ -27,7 +27,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        (COMPLETAR A FUTURO MUCHO MAS) Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es transformar datos en productos funcionales que optimicen procesos y generen impacto real.
+                        (COMPLETAR A FUTURO MUCHO MAS) Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es transformar datos en productos funcionales que generen impacto real.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

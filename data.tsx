@@ -101,28 +101,28 @@ export const dataCounter = [
 export const serviceData = [
     {
         icon: <Computer />,
-        title: "Software Engineering IA",
-        description: "Desarrollo de aplicaciones que integran modelos de ML (Python/C++) y APIs inteligentes.",
+        title: "Agregar a futuro",
+        description: "cambiar en data.tsx",
     },
     {
         icon: <Cloud />,
-        title: "Cloud Data Engineering",
-        description: "Pipelines ETL y almacenamiento escalable (AWS/GCP) para sistemas de IA.",
+        title: "Agregar a futuro",
+        description: "cambiar en data.tsx",
     },
     {
         icon: <Computer />,
-        title: "Machine Learning",
-        description: "Modelos predictivos entrenados con TensorFlow/PyTorch para análisis avanzados.",
+        title: "Agregar a futuro",
+        description: "cambiar en data.tsx",
     },
     {
         icon: <Cloud />,
-        title: "Despliegue de IA (MLOps)",
-        description: "Creación de contenido persuasivo y atractivo que capta la atención de clientes",
+        title: "Agregar a futuro",
+        description: "cambiar en data.tsx",
     },
     {
         icon: <Computer />,
-        title: "Soluciones Globales",
-        description: "Desarrollo técnico en español, alemán e inglés para equipos internacionales.",
+        title: "Agregar a futuro",
+        description: "cambiar en data.tsx",
     },
 ];
 

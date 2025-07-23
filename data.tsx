@@ -102,7 +102,7 @@ export const serviceData = [
     {
         icon: <Computer />,
         title: "C++",
-        description: "Estructuras en C++, Algoritmos de optimización, Manejo de archivos para almacenar datos y resultados de simulación / PROYECTO: MinePlanOptimizer)",
+        description: "Algoritmos de optimización, Manejo de archivos para almacenar datos y resultados de simulación / PROYECTO: MinePlanOptimizer)",
     },
     {
         icon: <Cloud />,
@@ -129,7 +129,7 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Optimizador de Planificación y Gestión para Operaciones Mineras",
+        title: "C++ / Optimizador de Planificación y Gestión para Operaciones Mineras",
         image: "/image-1.jpg",
         urlGithub: "https://github.com/PabloDeCristoC/MinePlanOptimizer.git",
         urlDemo: "#!",

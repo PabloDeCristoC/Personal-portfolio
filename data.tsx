@@ -101,8 +101,8 @@ export const dataCounter = [
 export const serviceData = [
     {
         icon: <Computer />,
-        title: "Agregar a futuro",
-        description: "cambiar en data.tsx",
+        title: "C++",
+        description: "Estructuras en C++, Algoritmos de optimización, Manejo de archivos para almacenar datos y resultados de simulación / PROYECTO: MinePlanOptimizer)",
     },
     {
         icon: <Cloud />,
@@ -129,9 +129,9 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Agregar a futuro",
+        title: "Optimizador de Planificación y Gestión para Operaciones Mineras",
         image: "/image-1.jpg",
-        urlGithub: "#!",
+        urlGithub: "https://github.com/PabloDeCristoC/MinePlanOptimizer.git",
         urlDemo: "#!",
     },
     {

@@ -16,7 +16,7 @@ const Introduction = () => {
                                 1000,
                                 'Habilidades en (completar a futuro)',
                                 1000,
-                                'Habilidad en idiomas (Español, Aleman, Ingles)',
+                                'Habilidad en idiomas (Español, Aleman y Ingles)',
                                 1000
                             ]}
                             wrapper="span"
@@ -27,7 +27,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        (COMPLETAR A FUTURO MUCHO MAS) Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es transformar datos en productos funcionales que generen impacto real.
+                        Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es aplicar mis conocimientos obtenidos durante mi trayectoria universitaria en productos funcionales que generen impacto real.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

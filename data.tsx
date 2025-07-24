@@ -1,4 +1,4 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, Github, Cloud } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech, Github, Cloud, Cpu, Code, Activity } from "lucide-react";
 
 export const socialNetworks = [
     {
@@ -100,8 +100,8 @@ export const dataCounter = [
 
 export const serviceData = [
     {
-        icon: <Computer />,
-        title: "C++",
+        icon: <Code/>,
+        title: "C/C++",
         description: "Algoritmos de optimización, Manejo de archivos para almacenar datos y resultados de simulación / PROYECTO: MinePlanOptimizer)",
     },
     {
@@ -115,12 +115,12 @@ export const serviceData = [
         description: "cambiar en data.tsx",
     },
     {
-        icon: <Cloud />,
+        icon: <Cpu />,
         title: "Agregar a futuro",
         description: "cambiar en data.tsx",
     },
     {
-        icon: <Computer />,
+        icon: <Activity />,
         title: "Agregar a futuro",
         description: "cambiar en data.tsx",
     },
@@ -129,12 +129,12 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "C++ / Optimizador de Planificación y Gestión para Operaciones Mineras",
+        title: "C/C++ || Mining Operations Planning & Management Optimizer",
         image: "/image-1.jpg",
         urlGithub: "https://github.com/PabloDeCristoC/MinePlanOptimizer.git",
-        urlDemo: "#!",
+        urlDemo: "https://github.com/PabloDeCristoC/MinePlanOptimizer/tree/main/output",
     },
-    {
+    {   
         id: 2,
         title: "Agregar a futuro",
         image: "/image-2.jpg",

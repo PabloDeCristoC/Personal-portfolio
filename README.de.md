@@ -1,43 +1,61 @@
-# 👋 Hallo, ich bin Pablo Emanuel De Cristo Cavieres Körn!
-
-📘 Dieses README ist verfügbar in:
-- [Spanisch 🇪🇸](README.es.md)
-- [Englisch 🇬🇧](README.md)
-- [Deutsch 🇩🇪](README.de.md)
-
-## 💻 Willkommen in meinem GitHub-Portfolio
-
-Dieses Repository enthält eine Sammlung von **meinen Projekten, Notizen, Übungen sowie persönlichen und universitären Entwicklungen**. Hier findest du von einfachen Übungen bis hin zu kompletten Projekten, die mein Lernen und meine Erfahrung in verschiedenen Programmierbereichen widerspiegeln. DIES IST NUR DAS QUELLPROJEKT DES PORTFOLIOS, NICHTS WEITER, ALLES IST SICHTBAR AUF MEINEM GITHUB UND DEN LINKS AUF MEINER PORTFOLIOSEITE.
-
-## 📂 Inhalt
-
-`In Zukunft ändern`
-   - In Zukunft ändern
-   - In Zukunft ändern
-   - In Zukunft ändern
-
-`In Zukunft ändern`
-   - In Zukunft ändern
-   - In Zukunft ändern
-
-`In Zukunft ändern`
-   - In Zukunft ändern  
-   - In Zukunft ändern
-
-`Andere/`
-   - Kleine Projekte in anderen Sprachen oder Technologien
-   - Allgemeine Informatiknotizen
-
-## 🚀 Über mich
-
-Ich bin Student der **Wirtschaftsinformatik**. Mich motiviert es, **DIES IN ZUKUNFT ZU ÄNDERN** und zu dokumentieren, was ich lerne, um es zu teilen und zu festigen.
-
-## 📫 Kontakt
-
-- ✉️ [pablocaviereskorn@gmail.com]
-- 🌐 [https://portafoliobypablokoern.netlify.app/]
-- 💼 [www.linkedin.com/in/pablokoern]
+📚 Dieses README ist verfügbar in:
+- 🇪🇸 [Spanisch](README.es.md)
+- 🇬🇧 [Englisch](README.md)
+- 🇩🇪 [Deutsch](README.de.md)
 
 ---
 
-🔖 **Hinweis:** Dieses Portfolio befindet sich in ständiger Entwicklung. Du kannst jeden Ordner durchsehen, um mehr über mein Lernen und meine Projekte zu erfahren. Dies ist ebenfalls nur der Quellcode, alles ist auf meiner Website und in meinem Discord-Profil sichtbar.
+## 💻 Willkommen in meinem GitHub-Portfolio
+
+Dieses Repository enthält den **Quellcode** meines persönlichen Portfolios.  
+Hier findest du eine Sammlung meiner **Projekte, Notizen, Übungen sowie akademische und persönliche Entwicklungen** – von einfachen Übungen bis hin zu kompletten Projekten, die meinen Lernweg zeigen.
+
+> ⚠️ **Hinweis:** Dieses Repository enthält *nur* den Quellcode der Portfolio-Webseite.  
+> Meine tatsächlichen Projekte und weitere Materialien sind auf meiner Webseite und meinem GitHub-Profil verfügbar.
+
+🔗 Schau dir das Portfolio hier an → [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
+
+---
+
+## 📂 Inhalt (in Arbeit)
+
+`Hauptbereiche`
+- 🧩 Projekte — Echten Code, den ich entwickelt habe
+- 📓 Notizen — Wichtige Informatikthemen, die ich lerne
+- 🛠️ Übungen — Codebeispiele zur Vertiefung des Unterrichtsstoffs
+- 🌐 Web — Frontend-Experimente und -Entwicklungen
+
+`Sonstiges/`
+- 🔡 Code in anderen Programmiersprachen
+- 🧠 Kleine technische Experimente oder Tests
+
+---
+
+## 🚀 Über mich
+
+Ich studiere **Bauingenieurwesen mit Schwerpunkt Informatik** und werde von Neugierde und dem Wunsch getrieben, **sinnvolle Dinge zu schaffen**. Ich dokumentiere gern, was ich lerne, um anderen (und meinem zukünftigen Ich 😅) zu helfen.
+
+Derzeit konzentriere ich mich auf:
+- ✍️ Stärkung der Grundlagen (C/C++, Algorithmen, Systeme)
+- 🌐 Aufbau meiner persönlichen Marke und Open-Source-Präsenz
+- 🤖 Weiterentwicklung in KI, eingebetteten Systemen und nachhaltiger Technologie
+
+---
+
+## 📬 Kontakt
+
+- 💌 E-Mail: [pablocaviereskorn@gmail.com](mailto:pablocaviereskorn@gmail.com)
+- 🌐 Webseite: [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
+- 🔗 LinkedIn: [linkedin.com/in/pablokoern](https://www.linkedin.com/in/pablokoern)
+
+---
+
+## 🧾 Credits
+
+Dieses Portfolio basiert auf einer Vorlage von [TarreDev](https://github.com/ratasi).  
+Ich habe es angepasst, um meine Identität, Inhalte und meinen persönlichen Stil widerzuspiegeln.  
+Das Original-Repository hatte keine Lizenz, daher wird dieses hier unter der **MIT-Lizenz** veröffentlicht, mit voller Anerkennung für diejenigen, die mich bei der Erstellung unterstützt haben.
+
+---
+
+🧪 Dieses Portfolio befindet sich in ständiger Weiterentwicklung. Schau dich gern um, gib Feedback oder melde dich bei mir!

@@ -1,43 +1,63 @@
-Hola# 👋 ¡Hola, soy Pablo Emanuel De Cristo Cavieres Körn!
+# 👋 ¡Hola, soy Pablo Emanuel De Cristo Cavieres Körn!
 
-📘 Este README está disponible en:
-- [Español 🇪🇸](README.es.md)
-- [English 🇬🇧](README.md)
-- [Alemán 🇩🇪](README.de.md)
-
-## 💻 Bienvenido a mi Portafolio de GitHub
-
-Este repositorio contiene una recopilación de **mis proyectos, apuntes, prácticas y desarrollos personales y universitarios**. Aquí encontrarás desde ejercicios básicos hasta proyectos completos que reflejan mi aprendizaje y experiencia en distintas áreas de la programación, ESTE ES SOLO EL PROYECTO FUENTE DEL PORTAFOLIO NADA MAS, TODO ES VISIBLE EN MI GITHUB Y LOS LINKS DENTRO DE MI PAGINA DE PORTFOLIO.
-
-## 📂 Contenido
-
-`Cambiar a futuro`
-   - Cambiar a futuro
-   - Cambiar a futuro
-   - Cambiar a futuro
-
-`Cambiar a futuro`
-   - Cambiar a futuro
-   - Cambiar a futuro
-
-`Cambiar a futuro`
-   - Cambiar a futuro  
-   - Cambiar a futuro
-
-`Otros/`
-   - Pequeños proyectos en otros lenguajes o tecnologías
-   - Apuntes generales de informática
-
-## 🚀 Sobre mí
-
-Soy estudiante de **Ingeniería Civil en Computación** me motiva **CAMBIAR ESTO A FUTURO** y documentar lo que estudio para compartirlo y reforzarlo.
-
-## 📫 Contacto
-
-- ✉️ [pablocaviereskorn@gmail.com]
-- 🌐 [https://portafoliobypablokoern.netlify.app/]
-- 💼 [www.linkedin.com/in/pablokoern]
+📚 Este README está disponible en:
+- 🇪🇸 [Español](README.es.md)
+- 🇬🇧 [English](README.md)
+- 🇩🇪 [Deutsch](README.de.md)
 
 ---
 
-🔖 **Nota:** Este portafolio está en desarrollo constante. Puedes revisar cada carpeta para explorar más sobre mis aprendizajes y proyectos, tambien este es solo el codigo fuente, todo es visible en mi pagina web y en mi perfil de discord.
+## 💻 Bienvenido a mi Portafolio de GitHub
+
+Este repositorio contiene la **base de código fuente** de mi portafolio personal.  
+Aquí encontrarás una recopilación de **mis proyectos, apuntes, prácticas y desarrollos universitarios y personales** — desde ejercicios simples hasta proyectos completos que reflejan mi camino de aprendizaje.
+
+> ⚠️ **Ojo:** Este repositorio es *solo* el código fuente de la página de portafolio.  
+> Mis proyectos reales y demás materiales están disponibles en mi sitio web y perfil de GitHub.
+
+🔗 Échale un vistazo AL PORTFOLIO aquí → [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
+
+---
+
+## 📂 Contenidos (en desarrollo)
+
+`Secciones principales`
+- 🧩 Proyectos — Código real que he desarrollado
+- 📓 Apuntes — Temas claves de informática que estudio
+- 🛠️ Prácticas — Código para reforzar conceptos de clases
+- 🌐 Web — Experimentos y construcciones frontend
+
+`Otros/`
+- 🔡 Código en otros lenguajes
+- 🧠 Experimentos o pruebas técnicas pequeñas
+
+---
+
+## 🚀 Sobre mí
+
+Soy estudiante de **Ingeniería Civil en Computación, Mencion informatica**, movido por la curiosidad y el deseo de **crear cosas con sentido**. Me gusta documentar lo que aprendo para ayudar a otros (y a mi yo futuro 😅).
+
+Ahora mismo me enfoco en:
+- ✍️ Fortalecer fundamentos (C/C++, algoritmos, sistemas)
+- 🌐 Construir mi marca personal y presencia open-source
+- 🤖 Avanzar en IA, sistemas embebidos y tecnología sustentable
+
+---
+
+## 📬 Contáctame
+
+- 💌 Email: [pablocaviereskorn@gmail.com](mailto:pablocaviereskorn@gmail.com)
+- 🌐 Web: [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
+- 🔗 LinkedIn: [linkedin.com/in/pablokoern](https://www.linkedin.com/in/pablokoern)
+
+---
+
+## 🧾 Créditos
+
+Este portafolio está basado en una plantilla de [TarreDev](https://github.com/ratasi).  
+Lo adapté para reflejar mi identidad, contenido y estilo personal.  
+El repositorio original no tenía licencia, por lo que este se publica bajo **MIT** con reconocimiento total a quien me guie en el proceso de cracion del mismo.
+
+---
+
+🧪 Este portafolio está en constante evolución.

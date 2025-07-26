@@ -56,7 +56,7 @@ Ahora mismo me enfoco en:
 
 Este portafolio está basado en una plantilla de [TarreDev](https://github.com/ratasi).  
 Lo adapté para reflejar mi identidad, contenido y estilo personal.  
-El repositorio original no tenía licencia, por lo que este se publica bajo **MIT** con reconocimiento total a quien me guie en el proceso de cracion del mismo.
+El repositorio original no tenía licencia, por lo que este se publica bajo **Apache** con reconocimiento total a quien me guie en el proceso de cracion del mismo.
 
 ---
 

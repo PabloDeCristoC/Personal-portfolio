@@ -54,7 +54,7 @@ Derzeit konzentriere ich mich auf:
 
 Dieses Portfolio basiert auf einer Vorlage von [TarreDev](https://github.com/ratasi).  
 Ich habe es angepasst, um meine Identität, Inhalte und meinen persönlichen Stil widerzuspiegeln.  
-Das Original-Repository hatte keine Lizenz, daher wird dieses hier unter der **MIT-Lizenz** veröffentlicht, mit voller Anerkennung für diejenigen, die mich bei der Erstellung unterstützt haben.
+Das Original-Repository hatte keine Lizenz, daher wird dieses hier unter der **Apache-Lizenz** veröffentlicht, mit voller Anerkennung für diejenigen, die mich bei der Erstellung unterstützt haben.
 
 ---
 

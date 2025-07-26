@@ -54,7 +54,7 @@ Currently, I focus on:
 
 This portfolio is based on a template by [TarreDev](https://github.com/ratasi).  
 I adapted it to reflect my identity, content, and personal style.  
-The original repository had no license, so this one is published under **MIT** with full recognition to those who guided me during its creation.
+The original repository had no license, so this one is published under **Apache** with full recognition to those who guided me during its creation.
 
 ---
 

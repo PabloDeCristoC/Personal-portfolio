@@ -4,7 +4,7 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "https://www.linkedin.com/in/pablokoern/",
+        src: "https://www.linkedin.com/in/pablokoern/", //aca va el link a linkedin
     },
     {
         id: 4,

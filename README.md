@@ -13,7 +13,7 @@ Here you’ll find a collection of **my projects, notes, exercises, and both aca
 > ⚠️ **Note:** This repository holds *only* the source code for the portfolio website.  
 > My actual projects and other materials are available on my website and GitHub profile.
 
-🔗 Take a look at the portfolio here → [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
+🔗 Take a look at the portfolio here → [portafoliopablodecristo.netlify.app](https://portafoliopablodecristo.netlify.app/)
 
 ---
 
@@ -44,9 +44,9 @@ Currently, I focus on:
 
 ## 📬 Contact Me
 
-- 💌 Email: [pablocaviereskorn@gmail.com](mailto:pablocaviereskorn@gmail.com)
-- 🌐 Website: [portafoliobypablokoern.netlify.app](https://portafoliobypablokoern.netlify.app)
-- 🔗 LinkedIn: [linkedin.com/in/pablokoern](https://www.linkedin.com/in/pablokoern)
+- 💌 Email: []()
+- 🌐 Website: [portafoliopablodecristo.netlify.app](https://portafoliopablodecristo.netlify.app/)
+- 🔗 LinkedIn: [linkedin.com/in/pablodecristo](https://www.linkedin.com/in/pablodecristo/)
 
 ---
 

@@ -4,7 +4,7 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "https://linkedin.com/in/pablodecristo", //aca va el link a linkedin
+        src: "", //aca va el link a linkedin
     },
     {
         id: 4,
@@ -136,10 +136,10 @@ export const dataPortfolio = [
     },
     {   
         id: 2,
-        title: "Agregar a futuro",
+        title: "Modulo ALU (Unidad Aritmética-lógica) || Aquitectura de un procesador simple (4 bits de base pero expandible)",
         image: "/image-2.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        urlGithub: "https://github.com/PabloDeCristoC/ALU-Module",
+        urlDemo: "https://github.com/PabloDeCristoC/ALU-Module",
     },
     {
         id: 3,

@@ -12,7 +12,7 @@ const Header = () => {
                     <Link href='/'>
                         <h1 className="my-3 text-4xl font-bold text-center md:text-left">
                             Pablo Emanuel De Cristo
-                            <span className="text-secondary"> Cavieres Körn</span>
+                            <span className="text-secondary"> Cavieres Martínez</span>
                         </h1>
                     </Link>
                     <div className="flex items-center justify-center gap-7">

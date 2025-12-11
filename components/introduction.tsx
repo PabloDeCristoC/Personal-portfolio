@@ -27,14 +27,14 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Dominio multilingüe (español, alemán, inglés) para colaborar en entornos globales. Mi pasión es aplicar mis conocimientos obtenidos durante mi trayectoria universitaria en productos funcionales que generen impacto real.
+                        Dominio multilingüe (español, alemán, inglés y lengua de señas Chilena) para colaborar en entornos globales. Mi pasión es aplicar mis conocimientos obtenidos durante mi trayectoria universitaria en productos funcionales que generen impacto real.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
                         <a href="https://github.com/PabloDeCristoC" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Proyectos
                         </a>
-                        <a href="" //ACA VA EL LINK DE MI CV DENTRO DE LOS ""
+                        <a href="https://drive.google.com/file/d/1ksdTB7HBD2zE4GMWd2Ug8mDr_m1izXOI/view?usp=sharing" //ACA VA EL LINK DE MI CV DENTRO DE LOS ""
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
                             CV + CONTACTO
                         </a>

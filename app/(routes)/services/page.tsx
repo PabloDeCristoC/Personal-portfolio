@@ -14,7 +14,7 @@ const ServicesPage = () => {
                 <div className="max-w-[450px]">
 
                     <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">Deslizar en la derecha, Mis <span className="font-bold text-secondary"> Habilidades.</span></h1>
-                    <p className="mb-3 text-xl text-gray-300">(Lo ire completando con el tiempo)</p>
+                    <p className="mb-3 text-xl text-gray-300">(Lo ire completando con el tiempo, todo esta en desarrollo durante mi carrera universitaria)</p>
                     <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Web© by PabloDeCristo</button>
                 </div>
 

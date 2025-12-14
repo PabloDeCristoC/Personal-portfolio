@@ -34,7 +34,7 @@ const Introduction = () => {
                         <a href="https://github.com/PabloDeCristoC" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Proyectos
                         </a>
-                        <a href="https://drive.google.com/file/d/1ksdTB7HBD2zE4GMWd2Ug8mDr_m1izXOI/view?usp=sharing" //ACA VA EL LINK DE MI CV DENTRO DE LOS ""
+                        <a href="https://drive.google.com/file/d/1dOjsohLIpYe46Zr2SvkN3R6RULymhaNh/view?usp=sharing" //ACA VA EL LINK DE MI CV DENTRO DE LOS ""
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
                             CV + CONTACTO
                         </a>
